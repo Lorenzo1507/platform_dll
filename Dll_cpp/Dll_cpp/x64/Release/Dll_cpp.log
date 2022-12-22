@@ -1,0 +1,11 @@
+﻿  shared_lib.cpp
+C:\Users\Lorenzo\Desktop\Dll_cpp\Dll_cpp\shared_lib.cpp(50,15): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Lorenzo\Desktop\Dll_cpp\Dll_cpp\shared_lib.cpp(72,15): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Lorenzo\Desktop\Dll_cpp\Dll_cpp\shared_lib.cpp(136,15): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+     Criando biblioteca C:\Users\Lorenzo\Desktop\Dll_cpp\x64\Release\Dll_cpp.lib e objeto C:\Users\Lorenzo\Desktop\Dll_cpp\x64\Release\Dll_cpp.exp
+  Gerando código
+  2 of 1262 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  Dll_cpp.vcxproj -> C:\Users\Lorenzo\Desktop\Dll_cpp\x64\Release\Dll_cpp.dll

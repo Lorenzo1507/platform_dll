@@ -1,0 +1,5 @@
+﻿  shared_lib.cpp
+C:\Users\Lorenzo\Desktop\Dll_cpp\Dll_cpp\shared_lib.cpp(50,15): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Lorenzo\Desktop\Dll_cpp\Dll_cpp\shared_lib.cpp(72,15): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+C:\Users\Lorenzo\Desktop\Dll_cpp\Dll_cpp\shared_lib.cpp(136,15): warning C4244: 'inicializando': conversão de 'double' para 'int', possível perda de dados
+  Dll_cpp.vcxproj -> C:\Users\Lorenzo\Desktop\Dll_cpp\Debug\Dll_cpp.dll
